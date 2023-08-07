@@ -6,7 +6,7 @@ import kotlin.random.Random
 class taller_1 {
 }
 fun main() {
-    /*System.setErr(PrintStream(ByteArrayOutputStream()))*/
+    System.setErr(PrintStream(ByteArrayOutputStream()))
     /*telefono
     print("Ingrese la cantidad de notificaciones: \n")
     val num: Int = readLine()!!.toInt()
